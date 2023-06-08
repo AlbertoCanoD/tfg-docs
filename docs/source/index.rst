@@ -1,22 +1,33 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to the Malware Sample Storage documentation!
+====================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Malware sample storage and sample feature extraction. Used for malware storage
+with an authentication system. It also has labeling and filtering of samples 
+through its internal features.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+This project has been developed by `Alberto Cano Delgado <https://github.com/AlbertoCanoD>`_
+ for the `University of Almeria <https://www.ual.es/>`_ as a final degree project.
+
+Project features
+----------------
+
+- Secure sample storage with authentication system
+- Automated feature extraction
+- Labeling and filtering of samples
+- Intuitive user interface
+- Malware sample search
+- Activity and audit log
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   installation
+   user-guide/index
+   developer-guide/index
+   known-issues
+   changelog
 
 .. note::
 
    This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
