@@ -6,7 +6,7 @@ with an authentication system. It also has labeling and filtering of samples
 through its internal features.
 
 This project has been developed by `Alberto Cano Delgado <https://github.com/AlbertoCanoD>`_
- for the `University of Almeria <https://www.ual.es/>`_ as a final degree project.
+for the `University of Almeria <https://www.ual.es/>`_ as a final degree project.
 
 Project features
 ----------------

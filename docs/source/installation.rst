@@ -17,17 +17,10 @@ Then we must consider whether we are running a Linux distribution or a Windows s
     $ pip install -r requeriments-windows.txt
 
 - In the case of using a Linux distribution, the "requeriments.txt" must be installed,
-and ssdeep must be installed later.
+  and ssdeep must be installed later.
 
 .. code-block:: console
 
     $ pip install -r requeriments.txt
     $ sudo apt install build-essential libffi-dev libfuzzy-dev
     $ BUILD_LIB=1 pip install ssdeep
-
-
-- Docs
-
-.. code-block:: console
-
-    $ sphinx-build -b html docs/source/ docs/build/html
