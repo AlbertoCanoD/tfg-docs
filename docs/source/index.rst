@@ -25,6 +25,7 @@ Project features
    installation
    user-guide/index
    developer-guide/index
+   future-work
    known-issues
    changelog
 
