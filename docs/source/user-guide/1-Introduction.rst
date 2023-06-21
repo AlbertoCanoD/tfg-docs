@@ -9,8 +9,8 @@ Main Views
 
 Malware Sample Storage has a main view, which may change if the user is logged in.
 
-.. image:: ../_static/mss_main_view.png
-   :target: ../_static/mss_main_view.png
+.. image:: ../img/mss_main_view.png
+   :target: ../img/mss_main_view.png
    :alt: Malware Sample Storage main view
 
 The main view is divided into five sections:
@@ -23,8 +23,8 @@ The main view is divided into five sections:
 
 The authenticated view add more sections:
 
-.. image:: ../_static/mss_main_auth_view.png
-   :target: ../_static/mss_main_auth_view.png
+.. image:: ../img/mss_main_auth_view.png
+   :target: ../img/mss_main_auth_view.png
    :alt: Malware Sample Storage main auth view
    
       * **Upload Sample** - This view shows the upload sample form.
