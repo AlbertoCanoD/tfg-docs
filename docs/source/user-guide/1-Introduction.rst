@@ -14,6 +14,7 @@ The main view is divided into five sections:
    .. image:: ../img/mss_main_view.png
       :target: ../img/mss_main_view.png
       :alt: Malware Sample Storage main view
+   
 
    * **Home** - This is the default view. It shows the latest samples that have been uploaded to the system.
    * **Samples list** - This view shows all the samples that have been uploaded to the system. The samples are sorted by the date they were uploaded.
@@ -26,6 +27,7 @@ The authenticated view add more sections:
    .. image:: ../img/mss_main_auth_view.png
       :target: ../img/mss_main_auth_view.png
       :alt: Malware Sample Storage main auth view
+   
    
    * **Upload Sample** - This view shows the upload sample form.
    * **Account** - This view shows the user's profile and has a form to change the user's data.
