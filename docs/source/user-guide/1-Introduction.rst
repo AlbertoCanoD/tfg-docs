@@ -1,5 +1,5 @@
-1. Introduction to Malware Sample Storage
-=========================================
+1. Introduction to the Malware Sample Storage user guide
+========================================================
 
 .. note::
    This guide assumes that you have already installed and set up the Malware Sample Storage. If you haven't done so, please refer to the installation guide for instructions.
