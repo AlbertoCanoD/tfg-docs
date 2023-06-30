@@ -19,7 +19,7 @@ Project features
 - Activity and audit log
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    installation
