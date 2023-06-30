@@ -16,11 +16,22 @@ Then we must consider whether we are running a Linux distribution or a Windows s
 
     $ pip install -r requeriments-windows.txt
 
-- In the case of using a Linux distribution, the "requeriments.txt" must be installed,
-  and ssdeep must be installed later.
+- In the case of using a Linux distribution, the "requeriments.txt" file must be installed,
+  and ssdeep package must be installed later.
 
-.. code-block:: console
+  - Ubuntu
 
-    $ pip install -r requeriments.txt
-    $ sudo apt install build-essential libffi-dev libfuzzy-dev
-    $ BUILD_LIB=1 pip install ssdeep
+    .. code-block:: console
+
+        $ sudo apt install build-essential libffi-dev libfuzzy-dev
+        $ pip install -r requeriments.txt
+        $ BUILD_LIB=1 pip install ssdeep
+
+  - Fedora
+
+    .. code-block:: console
+
+        $ pip install -r requeriments.txt
+        $ sudo dnf install ssdeep
+        $ BUILD_LIB=1 pip install ssdeep
+    
