@@ -4,7 +4,6 @@ User guide
 This guide will demonstrate the basic user-level operation of the Malware Sample Storage.
 
 .. toctree::
-   :maxdepth: 2
    :caption: Contents:
    
    1-Introduction  
