@@ -1,5 +1,5 @@
 Developer guide
-================
+===============
 
 This guide will demonstrate the developer-level operation of the Malware Sample Storage.
 
